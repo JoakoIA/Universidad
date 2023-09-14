@@ -1,0 +1,28 @@
+¿Vas a comprar una computadora y ni siquiera has pensado en el procesador? Si no lo sabías, se trata de una elemento tanto o más importante que la misma marca del equipo. Y menos que estés por comprarte una Mac, deberás decidir entre AMD vs. Intel.
+
+¿Cuál es la diferencia, realmente? ¿Cuáles son las ventajas y desventajas de cada uno de estos procesadores? Lo analizamos a fondo.
+
+AMD superó a los procesadores de décima generación de Intel con sus Ryzen 5000, tomando el liderato en rendimiento en videojuegos y en productividad. Sin embargo, Intel se está acercando con el lanzamiento de sus procesadores Rocket Lake de onceava generación, y está ofreciendo mejores precios que AMD.
+
+En el universo de las laptops, AMD ofrece sus chips móviles Ryzen 5000, pero estos no aparecen en tantas máquinas como los procesadores Tiger Lake de Intel. Cada nuevo lanzamiento de productos marca un cambio en el balance entre AMD e Intel. A continuación, te contamos cómo va esta rivalidad en 2021.
+
+Intel y AMD tienen excelentes procesadores para juegos y tareas de productividad, como la edición y transcodificación de videos, pero también cada uno tiene sus propias especialidades. Los mejores procesadores de AMD hoy día, el Ryzen 9 5900X y el 5950X, superan cualquier procesador de Intel, con 12 y 16 núcleos respectivamente.
+
+El mejor procesador Intel en la actualidad es el Core i9-10900K, aunque la compañía ya lanzó su plataforma de escritorio de onceava generación, con el 11900K listo para reemplazarlo. Sin embargo, el chip de generación anterior ofrece mucho más por tu dinero.
+
+El 10900K tiene un desempeño bastante similar al del 11900K, y el precio está bajando. Además, el 11900K presenta algunos problemas térmicos, lo que hace del 10900K la opción de Intel. Sin embargo, no es necesario comprar lo más caro para obtener un gran procesador para jugar o trabajar.
+
+Con un valor aproximado de $300 dólares, el Ryzen 5 5600X de AMD es un chip fantástico para trabajar y jugar. Intel tiene el 11600K en este rango de precios con sus seis núcleos y 12 hilos. Sin embargo, el 11600K tiene alto poder y demandas térmicas. En el papel, el 11600K tiene hasta el doble de TDP del 5600X, y en el uso del mundo real, puede generar aún más.
+
+En los segmentos más básicos del mercado, los procesadores de AMD tienden a ofrecer una mejor relación calidad-precio con productos tan sobresalientes como el 3300X y el 3600, que ofrecen un rendimiento multitarea y de juegos asombroso.
+
+Todavía no tenemos una opción económica para el Ryzen 5000, aunque deberíamos tenerla en algún momento de 2021. Sin embargo, el 10300F de Intel representa una durísima competencia.
+
+Las opciones económicas como el AMD 3200G e Intel Core i3 10100 hacen posible iniciar tu sistema sin una tarjeta gráfica adicional, los que los hace ideales para el trabajo de oficina general y disfrutar de Netflix, aunque tampoco les puedes pedir mucho más. Si quieres sumergirte en los juegos ligeros, AMD ofrece APU Ryzen 5000 con gráficos Radeon.
+
+Pero bueno, hay otras razones -además del rendimiento- por las que deberías considerar tanto a AMD como a Intel. Los procesadores de última generación de Intel tienen un soporte mucho mejor para los puertos Thunderbolt 3, si eso es algo que piensas utilizar.
+
+Por otra parte, AMD ofrece overclocking en su más barato chip B-series, lo que permite a quienes arman sus computadoras en base a un presupuesto limitado obtener el mayor desempeño de su equipo.
+
+AMD es la mejor opción para computadoras de escritorio en este momento, pero eso podría cambiar pronto. Intel está a punto de lanzar sus procesadores híbridos Alder Lake a finales de 2021. Esta nueva arquitectura combina dos tipos de núcleo, y los rumores sugieren que podrían ser mucho más rápidos que lo que ofrece actualmente Intel.
+
