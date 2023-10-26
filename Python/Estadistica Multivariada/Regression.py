@@ -6,6 +6,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_absolute_error
+from sklearn.preprocessing import StandardScaler
 import statsmodels.api as sm
 
 dataset = pd.read_csv("Python/Estadistica Multivariada/salarios.txt")
