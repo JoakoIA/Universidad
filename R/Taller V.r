@@ -109,12 +109,19 @@ ggplot(data_vis, aes(x = temp_promedio_aire, y = humed_rel_promedio, color = ins
   facet_grid(macrozona ~ estacion)
 
 #(30pts) Haga un grafico en el que se pueda ver la variación temporal (mes), para las diferentes variables climáticas (temperatura, humedad relativa y precipitación), cada una en un panel diferente y por panel de macrozona.
+library(tidyr)
+
+data_vis_long <- data_vis %>%
+  pivot_longer(cols = c(temp_promedio_aire, precipitacion_horaria, humed_rel_promedio),
+               names_to = "variable", values_to = "value")
+
+ggplot(data_vis_long, aes(x = mes, y = value, color = institucion)) +
+  geom_line(size = 1) +
+  labs(x = 'Mes', y = 'Valor', title = 'Variación temporal de variables climáticas por macrozona') +
+  facet_grid(variable ~ macrozona, scales = 'free', switch = 'y') +
+  scale_color_discrete(name = "Institución") +
+  theme_minimal()
 
 
-
-ggplot(data_vis, aes(x = mes)) +
-  geom_boxplot(aes(y = temp_promedio_aire), color = "red") +
-  geom_boxplot(aes(y = humed_rel_promedio), color = "blue") +
-  geom_boxplot(aes(y = precipitacion_horaria), color = "green") +
-  labs(x = 'Mes', y = 'Valores', title = 'Variación de Variables Climáticas') +
-  facet_grid(variable ~ macrozona)
+#Como ver las columnas de data_vis
+names(data_vis)
