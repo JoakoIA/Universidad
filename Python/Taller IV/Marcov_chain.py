@@ -1,7 +1,7 @@
 import numpy as np
 import pymc3 as pm
 import matplotlib.pyplot as plt
-#import arbiz as az
+import arviz as az
 
 data = np.array([1,1,1,1,0,1,0,0,1,1])
 
