@@ -1,5 +1,5 @@
 import numpy as np
-import pymc3 as pm
+import pymc as pm
 import matplotlib.pyplot as plt
 import arviz as az
 

@@ -28,7 +28,7 @@ def digitarTipos():
             Tramite = int(input("Ingrese el tipo de tramite\n 1- Presencial \n 2- Online\n: "))
             if Tramite in (1, 2):
                 tramistes.append(Tramite)
-                return Tramite
+                break
             else:
                 print("El tipo de tramite seleccionado no existe") 
         except ValueError:
@@ -41,7 +41,7 @@ def digitarEspecificacion():
                 Especificacion = int(input("Ingrese la especificacion del certificado\n 1- Nacimiento \n 2- Defuncion\n 3- Matrimonio\n: "))
                 if Especificacion in [1, 2, 3]:
                     especificaciones.append(Especificacion)
-                    return Especificacion
+                    break
                 else:
                     print("La especificacion seleccionada no existe") 
             except ValueError:
